@@ -6,7 +6,7 @@
 
 | Category | Details |
 | :--- | :--- |
-| **Primary Goal** | Build a scalable Medallion Lakehouse (Bronze-> Silver ->Gold) for 15M+ records. |
+| **Primary Goal** | Built a scalable Medallion Lakehouse (Bronze-> Silver ->Gold) for 15M+ records. |
 | **Tech Stack** | Python (Pandas), AWS (S3, Lambda, Glue, Athena), Terraform, Airflow, Docker. |
 | **Data Volume** | Successfully processed and transformed **16,000,000 rows** of synthetic data. |
 | **Infrastructure** | Fully automated via **Terraform** (Infrastructure as Code). |
