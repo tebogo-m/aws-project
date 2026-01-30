@@ -1,5 +1,5 @@
 # Serverless Medallion Data Lakehouse
-## An automated, event-driven ETL pipeline built to process large-scale CSV data (up to 15M+ rows) into a structured Data Lakehouse using the Medallion Architecture.
+## An automated, event-driven ETL pipeline built to process large-scale CSV data (15M+ rows) into a structured Data Lakehouse using the Medallion Architecture.
 ![Architecture Diagram](images/aws_architecture_diagram_final_v4.png)
 
 ## Project at a Glance
